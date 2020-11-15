@@ -1,0 +1,68 @@
+Meteors
+Ability! Rain Meteors upon your enemies!
+250
+2
+Miner
+Increases gold per second
+250
+5
+Samurai
+Moderate attack and defense melee unit.
+100
+5
+Viking
+High attack, low defense melee unit.
+150
+5
+Archer
+Medium range, low damage ranged attack unit.
+100
+5
+Giant
+Moderate attack, high defense melee unit.
+200
+3
+Heal
+Ability! Heal all your units!
+250
+2
+Spearman
+Low attack, moderate defense melee unit.
+80
+5
+Sniper
+Long range, moderate damage ranged unit.
+175
+3
+Warrior
+Moderate attack, low defense melee unit.
+80
+5
+Officer
+Melee unit which inspires those around him.
+200
+2
+Cyborg
+Ultra high damage ranged unit.
+400
+2
+Javalin Tosser
+Short range, high damage ranged unit.
+150
+3
+Farmer
+Low attack and defense melee unit.
+60
+5
+Dragon Knight
+High attack and defense melee unit.
+450
+2
+Sumo Wrestler
+Low attack, high defense melee unit.
+250
+3
+Medic
+Heals the unit in front of it.
+180
+3
